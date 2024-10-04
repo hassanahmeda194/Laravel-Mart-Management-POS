@@ -1,0 +1,1 @@
+This management system offers a streamlined solution for supermarket management, facilitating efficient handling of sales, purchases, returns, and reporting, along with branch management and user administration features.
